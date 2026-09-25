@@ -30,9 +30,9 @@
                     </ul>
                     <button id="phone-trigger" class="phone-trigger ion-android-call"></button>
                     <ul class="phones">
-                        <li><a href="tel:8121-416-416"><span>Taxi</span> 8121-416-416</a></li>
-                        <li><a href="tel:8121-416-416"><span>Garage</span> 8121-416-416</a></li>
-                        <li><a href="tel:8121-416-416"><span>Contact</span> 8121-416-416</a></li>
+                        <li><a href="tel:8121-416-416"><span>Taxi</span> 108</a></li>
+                        <li><a href="tel:8121-416-416"><span>Garage</span> 10008</a></li>
+                        <li><a href="tel:8121-416-416"><span>Contact</span> 9876554321</a></li>
                     </ul>
                 </div>
             </div>
@@ -93,7 +93,7 @@
 			<div class="slider owl-carousel">
 				<div class="slide">
 					<img src="http://placehold.it/1600x900" alt="" class="slider-image" />
-					<div class="slider-subtitle">Call us 24/7</div>
+					<div class="slider-subtitle">Call us 100</div>
 					<div class="slider-title">8121-416-416</div>
 					<div class="slider-button"><a href="about.html" class="btn btn-primary">Read more about us</a></div>
 				</div>

@@ -901,10 +901,8 @@ Table of content:
   }
 
     .slider .slide:before {
-        background: #000000;
         bottom: 0;
         content: "";
-        display: block;
         left: 0;
         position: absolute;
         right: 0;
@@ -917,7 +915,6 @@ Table of content:
         min-width: 1400px;
         width: 100%;
         height: auto;
-        opacity: 0.2;
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
